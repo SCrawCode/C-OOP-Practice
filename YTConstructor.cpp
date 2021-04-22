@@ -42,7 +42,7 @@ YouTubeChannel ytChannel("Driver Scottie-C", "Scottie Crawford");
 	ytChannel.publishedVideos.push_back("Under the Hood Ep.1");
 YouTubeChannel ytChannel2("Amy Sings", "Amy Wong");
 	ytChannel2.publishedVideos.push_back("Wong Way");
-	ytChannel2.publishedVideos.push_back("Scottie in Amy");
+	ytChannel2.publishedVideos.push_back("Future Shock");
 	
 	//Inefficient Method
 	//ytChannel.name = "Driver Scottie-C";
